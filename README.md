@@ -51,7 +51,7 @@ Pour lancer l'application, suivez ces instruction
 1. Clonez le dépôt sur votre machine locale :
 
 ```bash
-git clone git@github.com:Ahmat-2000/projetAnnuel.git
+git clone git@github.com:Izma-shaw/Editeur-de-formes-geometriques
 ```
 
 2. Naviguez dans le dossier du projet :
@@ -80,10 +80,6 @@ Les contributions à ce projet sont les bienvenues.
 ## Licence
 
 Ce projet est en open source
-
-## Contact
-
-Pour toute question ou suggestion, n'hésitez pas à contacter Ahmat à ahmatmhtlouky@gmail.com.
 
 ## Remerciements
 
